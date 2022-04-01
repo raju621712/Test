@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-31T19:36:01 IST" name="Default suite" finished-at="2022-03-31T19:36:21 IST" duration-ms="19421">
+    <groups>
+    </groups>
+    <test started-at="2022-03-31T19:36:01 IST" name="Default test" finished-at="2022-03-31T19:36:21 IST" duration-ms="19421">
+      <class name="com.SampleProject.Sample1">
+        <test-method signature="searcHbar()[pri:0, instance:com.SampleProject.Sample1@4fb3ee4e]" started-at="2022-03-31T19:36:01 IST" name="searcHbar" finished-at="2022-03-31T19:36:21 IST" duration-ms="19380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searcHbar -->
+      </class> <!-- com.SampleProject.Sample1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

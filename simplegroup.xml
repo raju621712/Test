@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+
+<groups>
+
+<run>
+  <include name="Employee Details"></include>
+ <include name="Personal Details"></include>
+ <exclude name="Bank Details"></exclude> 
+</run>
+
+
+</groups>
+
+    <classes>
+      <class name="com.Group.SimpleGrouping"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
